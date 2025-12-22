@@ -96,8 +96,10 @@ Formar especialistas e líderes capazes de atuar na interseção entre Cibersegu
 1. **Domínio Técnico em IA para Segurança**
    - Implementar modelos de ML para detecção de ameaças
    - Automatizar processos de SOC utilizando IA
+   - **Desenvolver agentes de IA autônomos para operações de segurança**
    - Desenvolver sistemas de threat intelligence baseados em IA
    - Criar pipelines de resposta automatizada a incidentes
+   - **Utilizar Vibe Coding para acelerar desenvolvimento seguro**
 
 2. **Domínio Técnico em Segurança de IA**
    - Identificar e mitigar vulnerabilidades em sistemas de IA/LLM
@@ -129,10 +131,12 @@ Ao concluir o MBA, o egresso será capaz de:
 |-------------|-------|-----------|
 | Machine Learning para Segurança | Avançado | Desenvolver e implementar modelos de ML para detecção de anomalias, classificação de malware e análise comportamental |
 | Automação de SOC | Avançado | Projetar e implementar playbooks automatizados, integrar ferramentas SOAR com IA |
+| **Desenvolvimento de Agentes de IA** | Avançado | Criar e orquestrar agentes autônomos para automação de segurança usando LangChain, CrewAI e LangGraph |
 | Threat Intelligence com IA | Intermediário-Avançado | Coletar, processar e analisar inteligência de ameaças com técnicas de NLP e ML |
 | Segurança de LLMs | Avançado | Identificar e mitigar vulnerabilidades do OWASP Top 10 para LLMs |
 | Red Team com IA | Intermediário | Conduzir testes de penetração utilizando ferramentas de IA |
 | Blue Team com IA | Avançado | Implementar defesas baseadas em IA, detectar ataques adversariais |
+| **Vibe Coding** | Intermediário-Avançado | Utilizar assistentes de IA (Claude Code, Copilot) para desenvolvimento eficiente e seguro |
 | Governança de IA | Avançado | Desenvolver frameworks de governança, garantir compliance |
 | Privacidade em IA | Intermediário-Avançado | Implementar privacy-preserving ML, federated learning |
 
@@ -152,7 +156,9 @@ O egresso poderá atuar como:
 - Chief Information Security Officer (CISO)
 - AI Security Architect
 - ML Security Engineer
+- **AI Agent Developer / Engineer**
 - SOC Manager / Director
+- Agentic SOC Specialist
 - Threat Intelligence Lead
 - AI Governance Specialist
 - Red Team / Blue Team Lead
@@ -205,9 +211,9 @@ TRILHA 1: FUNDAMENTOS (80h)
 
 TRILHA 2: IA PARA CIBERSEGURANÇA (140h)
 ├── Módulo 3: Machine Learning para Detecção de Ameaças (40h)
-├── Módulo 4: Automação de SOC com IA (40h)
-├── Módulo 5: Threat Intelligence e Hunting com IA (30h)
-└── Módulo 6: Resposta a Incidentes Automatizada (30h)
+├── Módulo 4: Automação de SOC com IA (30h)
+├── Módulo 5: Desenvolvimento de Agentes de IA para Cibersegurança (40h) [NOVO]
+└── Módulo 6: Threat Intelligence, Hunting e Resposta a Incidentes (30h)
 
 TRILHA 3: SEGURANÇA DE AMBIENTES DE IA (140h)
 ├── Módulo 7: Segurança de LLMs e Modelos Generativos (40h)
@@ -227,9 +233,9 @@ TRILHA 4: LIDERANÇA E APLICAÇÃO (60h)
 | 1 | Fundamentos de Segurança da Informação | 16h | 24h | 40h |
 | 2 | Fundamentos de Inteligência Artificial | 16h | 24h | 40h |
 | 3 | Machine Learning para Detecção de Ameaças | 12h | 28h | 40h |
-| 4 | Automação de SOC com IA | 12h | 28h | 40h |
-| 5 | Threat Intelligence e Hunting com IA | 10h | 20h | 30h |
-| 6 | Resposta a Incidentes Automatizada | 10h | 20h | 30h |
+| 4 | Automação de SOC com IA | 10h | 20h | 30h |
+| 5 | Desenvolvimento de Agentes de IA para Cibersegurança | 12h | 28h | 40h |
+| 6 | Threat Intelligence, Hunting e Resposta a Incidentes | 10h | 20h | 30h |
 | 7 | Segurança de LLMs e Modelos Generativos | 12h | 28h | 40h |
 | 8 | OWASP Top 10 para IA/LLM | 12h | 28h | 40h |
 | 9 | Governança e Ética em IA | 15h | 15h | 30h |
@@ -245,9 +251,9 @@ TRILHA 4: LIDERANÇA E APLICAÇÃO (60h)
 | 1 | Módulo 1: Fundamentos de Segurança | 40h |
 | 2 | Módulo 2: Fundamentos de IA | 40h |
 | 3 | Módulo 3: ML para Detecção de Ameaças | 40h |
-| 4 | Módulo 4: Automação de SOC | 40h |
-| 5 | Módulo 5: Threat Intelligence | 30h |
-| 6 | Módulo 6: Resposta a Incidentes | 30h |
+| 4 | Módulo 4: Automação de SOC | 30h |
+| 5 | Módulo 5: Agentes de IA para Cibersegurança | 40h |
+| 6 | Módulo 6: Threat Intel, Hunting e Resposta | 30h |
 | 7-8 | Módulo 7: Segurança de LLMs | 40h |
 | 9 | Módulo 8: OWASP Top 10 AI | 40h |
 | 10 | Módulo 9: Governança e Ética | 30h |
@@ -278,7 +284,30 @@ O curso adota uma metodologia **híbrida e ativa**, combinando:
 - Sistema de pontuação e ranking
 - Badges por competências adquiridas
 
-#### 8.1.4 Sala de Aula Invertida
+#### 8.1.4 Vibe Coding (Competência Transversal)
+
+O curso integra **Vibe Coding** como metodologia transversal, preparando o profissional para o futuro do desenvolvimento assistido por IA:
+
+**Conceito:**
+Vibe Coding é a prática de desenvolvimento de software utilizando assistentes de IA como parceiros de programação, onde o desenvolvedor descreve a intenção em linguagem natural e a IA auxilia na implementação.
+
+**Ferramentas Utilizadas:**
+- Claude Code (Anthropic) - assistente de terminal
+- GitHub Copilot - autocomplete inteligente
+- Cursor IDE - editor com IA integrada
+
+**Integração no Curso:**
+- Módulo 2: Introdução às ferramentas de Vibe Coding
+- Módulo 5: Desenvolvimento de agentes com assistência de IA
+- Todos os módulos: Uso de IA para acelerar desenvolvimento de scripts e automações
+
+**Competências Desenvolvidas:**
+- Engenharia de prompts para desenvolvimento
+- Validação crítica de código gerado por IA
+- Integração eficiente de assistentes de IA no workflow
+- Identificação de limitações e riscos de código AI-generated
+
+#### 8.1.5 Sala de Aula Invertida
 - Conteúdo teórico em videoaulas assíncronas
 - Encontros síncronos para discussão e prática
 - Atividades colaborativas online
@@ -397,8 +426,8 @@ O projeto final consiste em um **Capture The Flag (CTF)** integrador que simula:
 | Fundamentos de IA | Mestre/Doutor em IA ou Cientista de Dados Sênior |
 | ML para Detecção | Data Scientist com experiência em Security Analytics |
 | Automação de SOC | Profissional de SOC com experiência em SOAR |
-| Threat Intelligence | Analista de CTI Sênior, certificação CTIA ou similar |
-| Resposta a Incidentes | Profissional de CSIRT, certificação GCIH ou ECIH |
+| **Agentes de IA para Cyber** | Engenheiro de IA com experiência em LangChain/CrewAI, background em segurança |
+| Threat Intel e Resposta | Analista de CTI Sênior + Profissional CSIRT |
 | Segurança de LLMs | Especialista em AI Security, contribuidor OWASP |
 | OWASP Top 10 AI | Red Team / Pentester especializado em IA |
 | Governança e Ética | Especialista em GRC e IA Responsável |

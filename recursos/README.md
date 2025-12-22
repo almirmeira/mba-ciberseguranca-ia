@@ -24,11 +24,30 @@
 | Ferramenta | Descrição | Módulos |
 |------------|-----------|---------|
 | **Transformers (HuggingFace)** | Modelos pré-treinados | 6, 7 |
-| **LangChain** | Framework LLM | 4, 7 |
-| **OpenAI API** | GPT-4, embeddings | 2, 7, 8 |
-| **Anthropic API** | Claude | 7, 8 |
+| **LangChain** | Framework LLM e Agentes | 4, 5, 7 |
+| **OpenAI API** | GPT-4, embeddings | 2, 5, 7, 8 |
+| **Anthropic API** | Claude | 5, 7, 8 |
 | **spaCy** | NLP pipeline | 5, 6 |
 | **NLTK** | NLP tradicional | 6 |
+
+### Desenvolvimento de Agentes de IA 🆕
+
+| Ferramenta | Descrição | Módulos |
+|------------|-----------|---------|
+| **LangChain** | Framework base para agentes | 5 |
+| **LangGraph** | Workflows e grafos de agentes | 5 |
+| **CrewAI** | Sistemas multi-agente | 5 |
+| **LangSmith** | Observabilidade de agentes | 5 |
+| **AutoGPT** | Agentes autônomos (referência) | 5 |
+
+### Vibe Coding Tools 🆕
+
+| Ferramenta | Descrição | Módulos |
+|------------|-----------|---------|
+| **Claude Code** | Assistente de terminal | 2, 5, Todos |
+| **GitHub Copilot** | Autocomplete inteligente | 2, 5, Todos |
+| **Cursor IDE** | Editor com IA integrada | 2, 5, Todos |
+| **Aider** | Pair programming com IA | 5 |
 
 ### Segurança de IA
 

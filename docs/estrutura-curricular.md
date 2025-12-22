@@ -9,11 +9,11 @@
 | # | Trilha | Módulo | Disciplina | CH |
 |---|--------|--------|------------|-----|
 | 1 | Fundamentos | 1 | Fundamentos de Segurança da Informação | 40h |
-| 2 | Fundamentos | 2 | Fundamentos de Inteligência Artificial | 40h |
+| 2 | Fundamentos | 2 | Fundamentos de Inteligência Artificial e Vibe Coding | 40h |
 | 3 | IA para Cyber | 3 | Machine Learning para Detecção de Ameaças | 40h |
-| 4 | IA para Cyber | 4 | Automação de SOC com IA | 40h |
-| 5 | IA para Cyber | 5 | Threat Intelligence e Hunting com IA | 30h |
-| 6 | IA para Cyber | 6 | Resposta a Incidentes Automatizada | 30h |
+| 4 | IA para Cyber | 4 | Automação de SOC com IA | 30h |
+| 5 | IA para Cyber | 5 | **Desenvolvimento de Agentes de IA para Cibersegurança** | 40h |
+| 6 | IA para Cyber | 6 | Threat Intelligence, Hunting e Resposta a Incidentes | 30h |
 | 7 | Segurança de IA | 7 | Segurança de LLMs e Modelos Generativos | 40h |
 | 8 | Segurança de IA | 8 | OWASP Top 10 para IA/LLM | 40h |
 | 9 | Segurança de IA | 9 | Governança e Ética em IA | 30h |
@@ -21,6 +21,61 @@
 | 11 | Liderança | 11 | GRC para Ambientes de IA | 30h |
 | 12 | Liderança | 12 | Projeto Aplicado - CTF Final | 30h |
 | | | | **TOTAL** | **420h** |
+
+---
+
+## COMPETÊNCIA TRANSVERSAL: VIBE CODING
+
+### O que é Vibe Coding?
+
+**Vibe Coding** é uma abordagem de desenvolvimento onde o profissional expressa suas intenções em linguagem natural e a IA transforma esse pensamento em código executável. Termo cunhado por Andrej Karpathy em 2025, representa uma mudança fundamental na forma como profissionais de segurança interagem com código.
+
+### Por que Vibe Coding no MBA?
+
+Em 2025, o mercado reporta que:
+- 25% das startups do YC têm codebases 95% gerados por IA
+- Ciclos de desenvolvimento reduziram de 12 para 7 semanas
+- Profissionais de segurança precisam criar ferramentas rapidamente
+
+### Ferramentas de Vibe Coding no Curso
+
+| Ferramenta | Uso Principal | Módulos |
+|------------|---------------|---------|
+| **Claude Code** | Desenvolvimento de agentes e automações | 2, 5, 7 |
+| **GitHub Copilot** | Assistência em código de segurança | Todos |
+| **Cursor** | IDE com IA integrada | 3, 4, 5 |
+
+### Competências de Vibe Coding
+
+Ao longo do MBA, o aluno desenvolverá:
+
+1. **Prompting Efetivo para Código**
+   - Escrever prompts claros para geração de código
+   - Iterar e refinar outputs
+   - Identificar e corrigir erros
+
+2. **Revisão Crítica de Código Gerado**
+   - Avaliar segurança de código gerado por IA
+   - Identificar vulnerabilidades introduzidas
+   - Validar lógica e correção
+
+3. **Integração em Workflows de Segurança**
+   - Automatizar tarefas repetitivas
+   - Criar scripts de análise rapidamente
+   - Desenvolver PoCs de ferramentas
+
+### Aplicação por Módulo
+
+| Módulo | Aplicação de Vibe Coding |
+|--------|--------------------------|
+| 2 | Introdução a ferramentas, setup de ambiente |
+| 3 | Criação rápida de modelos de ML |
+| 4 | Desenvolvimento de playbooks e automações |
+| 5 | Construção de agentes de segurança |
+| 6 | Scripts de hunting e análise |
+| 7 | Ferramentas de teste de LLMs |
+| 8 | Exploits e mitigações |
+| 12 | Projeto final com suporte de IA |
 
 ---
 
@@ -71,14 +126,14 @@ Ao final do módulo, o aluno será capaz de:
 
 ---
 
-### Módulo 2: Fundamentos de Inteligência Artificial
+### Módulo 2: Fundamentos de Inteligência Artificial e Vibe Coding
 
 **Carga Horária:** 40 horas (16h teóricas + 24h práticas)
 
 **Número de Aulas:** 8 aulas de 5 horas
 
 #### Ementa
-Introdução à Inteligência Artificial: histórico, conceitos e aplicações. Machine Learning: aprendizado supervisionado, não supervisionado e por reforço. Redes neurais e Deep Learning. Processamento de Linguagem Natural (NLP). Large Language Models (LLMs): arquitetura, funcionamento e aplicações. Introdução ao Python para IA. Bibliotecas fundamentais: NumPy, Pandas, Scikit-learn. Frameworks de Deep Learning: TensorFlow, PyTorch. Ética e vieses em IA.
+Introdução à Inteligência Artificial: histórico, conceitos e aplicações. Machine Learning: aprendizado supervisionado, não supervisionado e por reforço. Redes neurais e Deep Learning. Processamento de Linguagem Natural (NLP). Large Language Models (LLMs): arquitetura, funcionamento e aplicações. **Vibe Coding: desenvolvimento assistido por IA com Claude Code, Cursor e GitHub Copilot.** Introdução ao Python para IA. Bibliotecas fundamentais: NumPy, Pandas, Scikit-learn. Ética e vieses em IA.
 
 #### Objetivos de Aprendizagem
 Ao final do módulo, o aluno será capaz de:
@@ -86,8 +141,9 @@ Ao final do módulo, o aluno será capaz de:
 2. Diferenciar tipos de aprendizado de máquina
 3. Implementar modelos básicos de ML em Python
 4. Entender a arquitetura e funcionamento de LLMs
-5. Utilizar bibliotecas fundamentais de IA
-6. Reconhecer questões éticas em IA
+5. **Utilizar ferramentas de Vibe Coding para desenvolvimento acelerado**
+6. **Avaliar criticamente código gerado por IA**
+7. Reconhecer questões éticas em IA
 
 #### Conteúdo Programático
 
@@ -98,8 +154,8 @@ Ao final do módulo, o aluno será capaz de:
 | 3 | Machine Learning Supervisionado | 5h |
 | 4 | Machine Learning Não Supervisionado | 5h |
 | 5 | Redes Neurais e Deep Learning | 5h |
-| 6 | Processamento de Linguagem Natural (NLP) | 5h |
-| 7 | Large Language Models (LLMs) | 5h |
+| 6 | Large Language Models (LLMs) e Prompting | 5h |
+| 7 | **Vibe Coding: Claude Code, Cursor e GitHub Copilot** | 5h |
 | 8 | Ética em IA e CTF do Módulo | 5h |
 
 #### Bibliografia
@@ -107,12 +163,12 @@ Ao final do módulo, o aluno será capaz de:
 **Básica:**
 - GÉRON, Aurélien. **Mãos à Obra: Aprendizado de Máquina com Scikit-Learn, Keras e TensorFlow**. 3ª ed. Alta Books, 2023.
 - CHOLLET, François. **Deep Learning with Python**. 2nd ed. Manning, 2021.
-- JURAFSKY, Daniel; MARTIN, James H. **Speech and Language Processing**. 3rd ed. Draft, 2024.
+- Anthropic. **Claude Code Documentation**. 2025.
 
 **Complementar:**
 - GOODFELLOW, Ian et al. **Deep Learning**. MIT Press, 2016.
-- RUSSELL, Stuart; NORVIG, Peter. **Inteligência Artificial**. 4ª ed. GEN LTC, 2022.
-- OpenAI. **GPT-4 Technical Report**. 2023.
+- GitHub. **GitHub Copilot Documentation**. 2025.
+- IBM. **What is Vibe Coding?**. 2025.
 
 ---
 
@@ -125,7 +181,7 @@ Ao final do módulo, o aluno será capaz de:
 **Número de Aulas:** 8 aulas de 5 horas
 
 #### Ementa
-Aplicação de Machine Learning em cibersegurança. Detecção de anomalias com algoritmos de clustering. Classificação de malware com técnicas supervisionadas. Análise comportamental com séries temporais. Feature engineering para dados de segurança. Detecção de intrusão com ML: IDS/IPS inteligentes. Análise de tráfego de rede com Deep Learning. User and Entity Behavior Analytics (UEBA). Detecção de phishing com NLP. Desafios: adversarial attacks em modelos de segurança.
+Aplicação de Machine Learning em cibersegurança. Detecção de anomalias com algoritmos de clustering. Classificação de malware com técnicas supervisionadas. Análise comportamental com séries temporais. Feature engineering para dados de segurança. Detecção de intrusão com ML: IDS/IPS inteligentes. Análise de tráfego de rede com Deep Learning. User and Entity Behavior Analytics (UEBA). Detecção de phishing com NLP. Uso de Vibe Coding para prototipagem rápida de modelos. Desafios: adversarial attacks em modelos de segurança.
 
 #### Objetivos de Aprendizagem
 Ao final do módulo, o aluno será capaz de:
@@ -134,7 +190,8 @@ Ao final do módulo, o aluno será capaz de:
 3. Criar sistemas de detecção de intrusão baseados em ML
 4. Aplicar UEBA para identificação de ameaças internas
 5. Construir detectores de phishing com NLP
-6. Compreender e mitigar ataques adversariais
+6. **Usar Vibe Coding para acelerar desenvolvimento de modelos**
+7. Compreender e mitigar ataques adversariais
 
 #### Conteúdo Programático
 
@@ -154,7 +211,6 @@ Ao final do módulo, o aluno será capaz de:
 **Básica:**
 - STAMP, Mark. **Introduction to Machine Learning with Applications in Information Security**. 2nd ed. CRC Press, 2022.
 - SAXE, Joshua; SANDERS, Hillary. **Malware Data Science**. No Starch Press, 2018.
-- SOMMER, Robin; PAXSON, Vern. **Outside the Closed World: On Using Machine Learning for Network Intrusion Detection**. IEEE S&P, 2010.
 
 **Complementar:**
 - APRUZZESE, Giovanni et al. **The Role of Machine Learning in Cybersecurity**. ACM Computing Surveys, 2023.
@@ -164,130 +220,143 @@ Ao final do módulo, o aluno será capaz de:
 
 ### Módulo 4: Automação de SOC com IA
 
+**Carga Horária:** 30 horas (10h teóricas + 20h práticas)
+
+**Número de Aulas:** 6 aulas de 5 horas
+
+#### Ementa
+Arquitetura de SOC moderno e o Agentic SOC. SIEM e correlação de eventos com ML. SOAR: Security Orchestration, Automation and Response. Playbooks automatizados com IA. Priorização de alertas com ML. Redução de falsos positivos com IA. Métricas e KPIs de SOC. Introdução a agentes de IA no SOC. Ferramentas: Splunk, Elastic SIEM, Microsoft Sentinel.
+
+#### Objetivos de Aprendizagem
+Ao final do módulo, o aluno será capaz de:
+1. Projetar arquitetura de SOC moderno com componentes de IA
+2. Configurar SIEM com regras de ML
+3. Desenvolver playbooks automatizados em SOAR
+4. Implementar priorização inteligente de alertas
+5. Medir e otimizar performance de SOC
+6. Compreender o papel de agentes de IA no SOC
+
+#### Conteúdo Programático
+
+| Aula | Tema | CH |
+|------|------|-----|
+| 1 | Arquitetura de SOC Moderno e Agentic SOC | 5h |
+| 2 | SIEM: Correlação e Detecção com ML | 5h |
+| 3 | SOAR: Orquestração e Automação | 5h |
+| 4 | Playbooks Automatizados com IA | 5h |
+| 5 | Priorização de Alertas e Redução de Falsos Positivos | 5h |
+| 6 | Métricas de SOC e CTF do Módulo | 5h |
+
+#### Bibliografia
+
+**Básica:**
+- MUNIZ, Joseph; MCINTYRE, Gary. **Security Operations Center**. Cisco Press, 2015.
+- ROTHMAN, Mike; PESCATORE, John. **Security Operations Center Guidance**. SANS Institute, 2023.
+
+**Complementar:**
+- Google Cloud Blog. **The Dawn of Agentic AI in Security Operations**. 2025.
+- IBM. **Agentic AI Enables an Autonomous SOC**. 2025.
+
+---
+
+### Módulo 5: Desenvolvimento de Agentes de IA para Cibersegurança
+
 **Carga Horária:** 40 horas (12h teóricas + 28h práticas)
 
 **Número de Aulas:** 8 aulas de 5 horas
 
 #### Ementa
-Arquitetura de SOC moderno. SIEM e correlação de eventos com ML. SOAR: Security Orchestration, Automation and Response. Playbooks automatizados com IA. Integração de feeds de inteligência. Priorização de alertas com ML. Chatbots e assistentes de IA para SOC. Automação de triagem de incidentes. Métricas e KPIs de SOC. Redução de falsos positivos com IA. Ferramentas: Splunk, Elastic SIEM, Microsoft Sentinel, XSOAR.
+Introdução a Agentes de IA: conceitos, arquiteturas e frameworks. LangChain, CrewAI e AutoGPT para segurança. Desenvolvimento de agentes autônomos para SOC. Agentes de triagem de alertas. Agentes de threat hunting. Agentes de resposta a incidentes. Agentes multi-modelo e orquestração. Integração de agentes com ferramentas de segurança (APIs, SIEM, SOAR). Segurança de agentes: controle de permissões, human-in-the-loop. Vibe Coding para desenvolvimento acelerado de agentes. Casos de uso: Dropzone AI, Google Gemini Security Agents, IBM ATOM.
 
 #### Objetivos de Aprendizagem
 Ao final do módulo, o aluno será capaz de:
-1. Projetar arquitetura de SOC com componentes de IA
-2. Configurar SIEM com regras de ML
-3. Desenvolver playbooks automatizados em SOAR
-4. Implementar priorização inteligente de alertas
-5. Criar assistentes de IA para analistas de SOC
-6. Medir e otimizar performance de SOC
+1. Compreender arquiteturas de agentes de IA (ReAct, Plan-and-Execute)
+2. Desenvolver agentes de segurança com LangChain e CrewAI
+3. Criar agentes de triagem automática de alertas
+4. Implementar agentes de threat hunting
+5. Construir agentes de resposta a incidentes
+6. Integrar agentes com ferramentas de SOC
+7. Aplicar controles de segurança em agentes (permissões, auditoria)
+8. Usar Vibe Coding para acelerar desenvolvimento
 
 #### Conteúdo Programático
 
 | Aula | Tema | CH |
 |------|------|-----|
-| 1 | Arquitetura de SOC Moderno e Maturidade | 5h |
-| 2 | SIEM: Correlação e Detecção com ML | 5h |
-| 3 | SOAR: Orquestração e Automação | 5h |
-| 4 | Playbooks Automatizados com IA | 5h |
-| 5 | Priorização de Alertas e Redução de Falsos Positivos | 5h |
-| 6 | Chatbots e Assistentes de IA para SOC | 5h |
-| 7 | Integração de Threat Intelligence | 5h |
-| 8 | Métricas de SOC e CTF do Módulo | 5h |
+| 1 | Introdução a Agentes de IA: Conceitos e Arquiteturas | 5h |
+| 2 | Frameworks: LangChain, LangGraph e CrewAI | 5h |
+| 3 | Desenvolvimento de Agente de Triagem de Alertas | 5h |
+| 4 | Agente de Threat Hunting Automatizado | 5h |
+| 5 | Agente de Resposta a Incidentes | 5h |
+| 6 | Integração com APIs e Ferramentas de Segurança | 5h |
+| 7 | Segurança de Agentes: Permissões, Auditoria e Human-in-the-Loop | 5h |
+| 8 | Projeto: Construindo um AI SOC Agent e CTF do Módulo | 5h |
+
+#### Laboratórios Práticos
+
+| Lab | Descrição | Ferramentas |
+|-----|-----------|-------------|
+| 5.1 | Setup de ambiente LangChain/CrewAI | Python, LangChain, Claude Code |
+| 5.2 | Agente de análise de logs | LangChain, Elastic |
+| 5.3 | Agente de triagem com VirusTotal | CrewAI, APIs |
+| 5.4 | Agente de hunting MITRE ATT&CK | LangGraph, ATT&CK |
+| 5.5 | Agente de resposta automatizada | SOAR APIs |
+| 5.6 | Integração multi-ferramenta | APIs diversas |
+| 5.7 | Implementação de guardrails em agentes | NeMo Guardrails |
+| 5.8 | Projeto final: AI SOC Agent | Stack completa |
 
 #### Bibliografia
 
 **Básica:**
-- MUNIZ, Joseph; MCINTYRE, Gary; ALFARDAN, Nadhem. **Security Operations Center: Building, Operating, and Maintaining your SOC**. Cisco Press, 2015.
-- ROTHMAN, Mike; PESCATORE, John. **Security Operations Center Guidance**. SANS Institute, 2023.
-- SHACKLEFORD, Dave. **Who's Using SIEM/SOC Automation and Orchestration?** SANS Institute, 2022.
+- LangChain. **LangChain Documentation**. 2025. https://python.langchain.com/
+- CrewAI. **CrewAI Documentation**. 2025. https://docs.crewai.com/
+- Google Cloud. **The Dawn of Agentic AI in Security Operations at RSAC 2025**. 2025.
 
 **Complementar:**
-- Splunk. **Splunk Enterprise Security Documentation**. 2024.
-- Microsoft. **Microsoft Sentinel Documentation**. 2024.
-- Palo Alto Networks. **XSOAR Administrator's Guide**. 2024.
+- IBM. **Agentic AI Enables an Autonomous SOC**. 2025.
+- Radiant Security. **AI Agents in the SOC: Transforming Cybersecurity Operations**. 2025.
+- OWASP. **Top 10 for Agentic Applications**. 2026.
 
 ---
 
-### Módulo 5: Threat Intelligence e Hunting com IA
+### Módulo 6: Threat Intelligence, Hunting e Resposta a Incidentes
 
 **Carga Horária:** 30 horas (10h teóricas + 20h práticas)
 
 **Número de Aulas:** 6 aulas de 5 horas
 
 #### Ementa
-Fundamentos de Cyber Threat Intelligence (CTI). Ciclo de inteligência aplicado a cibersegurança. Frameworks: MITRE ATT&CK, Diamond Model, Kill Chain. Coleta automatizada de IOCs com ML. Análise de dark web e deep web. NLP para processamento de relatórios de ameaças. Threat hunting proativo com IA. Hipóteses de hunting baseadas em ML. Ferramentas de CTI: MISP, OpenCTI, ThreatConnect.
+Fundamentos de Cyber Threat Intelligence (CTI). MITRE ATT&CK e frameworks de CTI. Coleta automatizada de IOCs com ML e agentes. NLP para processamento de relatórios de ameaças. Threat hunting proativo com IA. Ciclo de resposta a incidentes (NIST SP 800-61). Detecção e triagem automatizada. Contenção e recuperação com agentes. Documentação automatizada com LLMs.
 
 #### Objetivos de Aprendizagem
 Ao final do módulo, o aluno será capaz de:
 1. Aplicar o ciclo de inteligência em cibersegurança
-2. Utilizar frameworks de CTI (MITRE ATT&CK)
-3. Automatizar coleta e análise de IOCs
+2. Utilizar MITRE ATT&CK para hunting e detecção
+3. Automatizar coleta e análise de IOCs com agentes
 4. Desenvolver hunting queries baseadas em IA
-5. Processar relatórios de ameaças com NLP
-6. Correlacionar inteligência de múltiplas fontes
+5. Implementar resposta automatizada a incidentes
+6. Documentar incidentes com assistência de LLMs
 
 #### Conteúdo Programático
 
 | Aula | Tema | CH |
 |------|------|-----|
-| 1 | Fundamentos de Cyber Threat Intelligence | 5h |
-| 2 | MITRE ATT&CK e Frameworks de CTI | 5h |
-| 3 | Coleta e Processamento de IOCs com ML | 5h |
-| 4 | NLP para Análise de Relatórios de Ameaças | 5h |
-| 5 | Threat Hunting Proativo com IA | 5h |
-| 6 | Integração de Fontes e CTF do Módulo | 5h |
+| 1 | Cyber Threat Intelligence e MITRE ATT&CK | 5h |
+| 2 | Coleta e Análise de IOCs com IA | 5h |
+| 3 | Threat Hunting Proativo com Agentes | 5h |
+| 4 | Resposta a Incidentes: Detecção e Triagem | 5h |
+| 5 | Contenção Automatizada e Playbooks | 5h |
+| 6 | Documentação com LLMs e CTF do Módulo | 5h |
 
 #### Bibliografia
 
 **Básica:**
-- SANTOS, Omar. **Developing Cybersecurity Programs and Policies**. 3rd ed. Pearson IT Certification, 2018.
 - MITRE. **ATT&CK Framework Documentation**. 2024.
-- DIETRICH, Christian et al. **On the Detection of High-Quality Threat Intelligence**. ACSAC, 2020.
-
-**Complementar:**
-- CASEY, Tim. **Threat Intelligence and Me**. SANS Institute, 2023.
-- BROWN, Robert M. Lee and Mike. **The Sliding Scale of Cyber Security**. SANS Reading Room, 2015.
-
----
-
-### Módulo 6: Resposta a Incidentes Automatizada
-
-**Carga Horária:** 30 horas (10h teóricas + 20h práticas)
-
-**Número de Aulas:** 6 aulas de 5 horas
-
-#### Ementa
-Ciclo de resposta a incidentes (NIST SP 800-61). Detecção automatizada de incidentes. Triagem inteligente com ML. Contenção automatizada: isolamento de hosts, bloqueio de IPs. Análise forense com IA. Recuperação automatizada. Documentação e lições aprendidas. Playbooks de resposta automatizada. Integração com SOAR. Simulação de incidentes (tabletop exercises).
-
-#### Objetivos de Aprendizagem
-Ao final do módulo, o aluno será capaz de:
-1. Implementar detecção automatizada de incidentes
-2. Desenvolver playbooks de resposta automatizada
-3. Conduzir triagem inteligente com ML
-4. Automatizar ações de contenção e recuperação
-5. Utilizar IA para análise forense inicial
-6. Documentar e reportar incidentes eficientemente
-
-#### Conteúdo Programático
-
-| Aula | Tema | CH |
-|------|------|-----|
-| 1 | Ciclo de Resposta a Incidentes e NIST SP 800-61 | 5h |
-| 2 | Detecção e Triagem Automatizada | 5h |
-| 3 | Contenção Automatizada e Playbooks | 5h |
-| 4 | Análise Forense com IA | 5h |
-| 5 | Recuperação e Documentação Automatizada | 5h |
-| 6 | Simulação de Incidentes e CTF do Módulo | 5h |
-
-#### Bibliografia
-
-**Básica:**
 - NIST. **SP 800-61 Rev. 2: Computer Security Incident Handling Guide**. 2012.
-- CICHONSKI, Paul et al. **Incident Response & Computer Forensics**. 3rd ed. McGraw-Hill, 2014.
-- JOHANSEN, Gerard. **Digital Forensics and Incident Response**. 2nd ed. Packt, 2020.
 
 **Complementar:**
 - SANS. **Incident Handler's Handbook**. 2023.
-- LUTTGENS, Jason; PEPE, Matthew; MANDIA, Kevin. **Incident Response & Computer Forensics**. McGraw-Hill, 2014.
+- JOHANSEN, Gerard. **Digital Forensics and Incident Response**. 2nd ed. Packt, 2020.
 
 ---
 
@@ -300,7 +369,7 @@ Ao final do módulo, o aluno será capaz de:
 **Número de Aulas:** 8 aulas de 5 horas
 
 #### Ementa
-Arquitetura de Large Language Models. Superfície de ataque em sistemas de IA generativa. Prompt injection: direto e indireto. Jailbreaking de LLMs. Data poisoning e model poisoning. Extração de dados de treinamento. Model stealing e inversão de modelos. Segurança de APIs de LLM. Defesas e guardrails. Frameworks de segurança para LLMs. Ferramentas de red teaming para IA.
+Arquitetura de Large Language Models. Superfície de ataque em sistemas de IA generativa. Prompt injection: direto e indireto. Jailbreaking de LLMs. Data poisoning e model poisoning. Extração de dados de treinamento. Model stealing e inversão de modelos. Segurança de APIs de LLM. Defesas e guardrails. Frameworks de segurança para LLMs. Ferramentas de red teaming para IA. **Segurança de ferramentas de Vibe Coding.**
 
 #### Objetivos de Aprendizagem
 Ao final do módulo, o aluno será capaz de:
@@ -310,6 +379,7 @@ Ao final do módulo, o aluno será capaz de:
 4. Proteger APIs de modelos de IA
 5. Detectar e prevenir data poisoning
 6. Realizar red teaming em sistemas de IA
+7. **Avaliar riscos de segurança em código gerado por IA**
 
 #### Conteúdo Programático
 
@@ -320,7 +390,7 @@ Ao final do módulo, o aluno será capaz de:
 | 3 | Jailbreaking e Bypass de Guardrails | 5h |
 | 4 | Data Poisoning e Model Poisoning | 5h |
 | 5 | Extração de Dados e Model Stealing | 5h |
-| 6 | Segurança de APIs de LLM | 5h |
+| 6 | Segurança de APIs de LLM e Vibe Coding | 5h |
 | 7 | Implementação de Guardrails e Defesas | 5h |
 | 8 | Red Teaming de IA e CTF do Módulo | 5h |
 
@@ -328,12 +398,10 @@ Ao final do módulo, o aluno será capaz de:
 
 **Básica:**
 - OWASP. **OWASP Top 10 for Large Language Model Applications 2025**. 2025.
-- PEREZ, Fabio; RIBEIRO, Ian. **Ignore This Title and HackAPrompt: Evaluating Prompt Injection Vulnerabilities in LLMs**. 2023.
-- GRESHAKE, Kai et al. **Not What You've Signed Up For: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection**. 2023.
+- PEREZ, Fabio; RIBEIRO, Ian. **Ignore This Title and HackAPrompt**. 2023.
 
 **Complementar:**
 - Anthropic. **Claude's Character and Safety**. 2024.
-- OpenAI. **GPT-4 System Card**. 2023.
 - Google. **Secure AI Framework (SAIF)**. 2024.
 
 ---
@@ -345,7 +413,7 @@ Ao final do módulo, o aluno será capaz de:
 **Número de Aulas:** 8 aulas de 5 horas
 
 #### Ementa
-OWASP Top 10 para LLM Applications 2025: análise detalhada. LLM01: Prompt Injection. LLM02: Insecure Output Handling. LLM03: Training Data Poisoning. LLM04: Model Denial of Service. LLM05: Supply Chain Vulnerabilities. LLM06: Sensitive Information Disclosure. LLM07: Insecure Plugin Design. LLM08: Excessive Agency. LLM09: Overreliance. LLM10: Model Theft. OWASP Agentic AI Security 2026.
+OWASP Top 10 para LLM Applications 2025: análise detalhada. LLM01: Prompt Injection. LLM02: Insecure Output Handling. LLM03: Training Data Poisoning. LLM04: Model Denial of Service. LLM05: Supply Chain Vulnerabilities. LLM06: Sensitive Information Disclosure. LLM07: Insecure Plugin Design. LLM08: Excessive Agency. LLM09: Overreliance. LLM10: Model Theft. **OWASP Top 10 for Agentic Applications. Segurança de agentes autônomos.**
 
 #### Objetivos de Aprendizagem
 Ao final do módulo, o aluno será capaz de:
@@ -353,8 +421,8 @@ Ao final do módulo, o aluno será capaz de:
 2. Explorar vulnerabilidades em ambiente controlado
 3. Implementar mitigações para cada categoria
 4. Conduzir assessments de segurança em aplicações de LLM
-5. Desenvolver secure coding practices para IA
-6. Avaliar riscos de agentes autônomos de IA
+5. **Avaliar riscos de agentes autônomos de IA**
+6. **Implementar controles de segurança para agentes**
 
 #### Conteúdo Programático
 
@@ -366,7 +434,7 @@ Ao final do módulo, o aluno será capaz de:
 | 4 | LLM06-Information Disclosure e LLM07-Insecure Plugin | 5h |
 | 5 | LLM08-Excessive Agency e LLM09-Overreliance | 5h |
 | 6 | LLM10-Model Theft e Mitigações Gerais | 5h |
-| 7 | OWASP Agentic AI Security 2026 | 5h |
+| 7 | **OWASP Top 10 for Agentic Applications** | 5h |
 | 8 | Assessment de Segurança e CTF do Módulo | 5h |
 
 #### Bibliografia
@@ -374,12 +442,10 @@ Ao final do módulo, o aluno será capaz de:
 **Básica:**
 - OWASP. **OWASP Top 10 for Large Language Model Applications v2.0**. 2025.
 - OWASP. **OWASP Top 10 for Agentic Applications**. 2026.
-- OWASP. **AI Security and Privacy Guide**. 2024.
 
 **Complementar:**
 - NIST. **AI Risk Management Framework (AI RMF 1.0)**. 2023.
 - European Union. **EU AI Act**. 2024.
-- IEEE. **Ethically Aligned Design**. 2019.
 
 ---
 
@@ -390,7 +456,7 @@ Ao final do módulo, o aluno será capaz de:
 **Número de Aulas:** 6 aulas de 5 horas
 
 #### Ementa
-Princípios de IA responsável e ética. Vieses em sistemas de IA: identificação e mitigação. Fairness, Accountability, Transparency (FAT). Explicabilidade e interpretabilidade de modelos (XAI). Governança corporativa de IA. Frameworks de governança: NIST AI RMF, ISO 42001. EU AI Act e regulamentações globais. Comitês de ética em IA. Auditoria de sistemas de IA. Impacto social da IA em cibersegurança.
+Princípios de IA responsável e ética. Vieses em sistemas de IA: identificação e mitigação. Fairness, Accountability, Transparency (FAT). Explicabilidade e interpretabilidade de modelos (XAI). Governança corporativa de IA. Frameworks de governança: NIST AI RMF, ISO 42001. EU AI Act e regulamentações globais. **Governança de ferramentas de Vibe Coding e código gerado por IA.** Comitês de ética em IA. Auditoria de sistemas de IA.
 
 #### Objetivos de Aprendizagem
 Ao final do módulo, o aluno será capaz de:
@@ -398,8 +464,8 @@ Ao final do módulo, o aluno será capaz de:
 2. Identificar e mitigar vieses em modelos de ML
 3. Implementar práticas de explicabilidade
 4. Desenvolver políticas de governança de IA
-5. Garantir conformidade com regulamentações
-6. Conduzir auditorias de sistemas de IA
+5. **Estabelecer políticas para uso de Vibe Coding**
+6. Garantir conformidade com regulamentações
 
 #### Conteúdo Programático
 
@@ -409,7 +475,7 @@ Ao final do módulo, o aluno será capaz de:
 | 2 | Vieses em IA: Identificação e Mitigação | 5h |
 | 3 | Explicabilidade e Interpretabilidade (XAI) | 5h |
 | 4 | Frameworks de Governança: NIST AI RMF, ISO 42001 | 5h |
-| 5 | Regulamentações: EU AI Act, LGPD e IA | 5h |
+| 5 | Regulamentações e Governança de Vibe Coding | 5h |
 | 6 | Auditoria de IA e CTF do Módulo | 5h |
 
 #### Bibliografia
@@ -417,12 +483,10 @@ Ao final do módulo, o aluno será capaz de:
 **Básica:**
 - NIST. **AI Risk Management Framework (AI RMF 1.0)**. 2023.
 - ISO/IEC 42001:2023 - Artificial Intelligence Management System
-- European Union. **Artificial Intelligence Act**. 2024.
 
 **Complementar:**
+- European Union. **Artificial Intelligence Act**. 2024.
 - JOBIN, Anna et al. **The Global Landscape of AI Ethics Guidelines**. Nature Machine Intelligence, 2019.
-- FLORIDI, Luciano et al. **AI4People—An Ethical Framework for a Good AI Society**. Minds and Machines, 2018.
-- MITTELSTADT, Brent. **Principles Alone Cannot Guarantee Ethical AI**. Nature Machine Intelligence, 2019.
 
 ---
 
@@ -433,16 +497,15 @@ Ao final do módulo, o aluno será capaz de:
 **Número de Aulas:** 6 aulas de 5 horas
 
 #### Ementa
-Privacidade em sistemas de ML. Ataques de privacidade: membership inference, model inversion. Differential Privacy: conceitos e implementação. Federated Learning: aprendizado descentralizado. Técnicas de anonimização e pseudonimização. Privacy-Preserving Machine Learning (PPML). Secure Multi-Party Computation. Homomorphic Encryption para ML. LGPD aplicada a sistemas de IA. Data minimization e purpose limitation.
+Privacidade em sistemas de ML. Ataques de privacidade: membership inference, model inversion. Differential Privacy: conceitos e implementação. Federated Learning: aprendizado descentralizado. Privacy-Preserving Machine Learning (PPML). LGPD aplicada a sistemas de IA. **Privacidade em ferramentas de Vibe Coding e dados enviados a LLMs.**
 
 #### Objetivos de Aprendizagem
 Ao final do módulo, o aluno será capaz de:
 1. Identificar riscos de privacidade em sistemas de ML
 2. Implementar Differential Privacy
 3. Projetar sistemas com Federated Learning
-4. Aplicar técnicas de anonimização adequadas
-5. Garantir conformidade com LGPD em projetos de IA
-6. Avaliar trade-offs entre privacidade e utilidade
+4. Garantir conformidade com LGPD em projetos de IA
+5. **Avaliar riscos de privacidade em Vibe Coding**
 
 #### Conteúdo Programático
 
@@ -451,20 +514,18 @@ Ao final do módulo, o aluno será capaz de:
 | 1 | Privacidade em ML: Ameaças e Ataques | 5h |
 | 2 | Differential Privacy: Teoria e Prática | 5h |
 | 3 | Federated Learning | 5h |
-| 4 | Privacy-Preserving ML: SMPC e Homomorphic Encryption | 5h |
-| 5 | LGPD e Proteção de Dados em IA | 5h |
+| 4 | Privacy-Preserving ML | 5h |
+| 5 | LGPD, Privacidade e Vibe Coding | 5h |
 | 6 | Implementação de Privacidade e CTF do Módulo | 5h |
 
 #### Bibliografia
 
 **Básica:**
 - DWORK, Cynthia; ROTH, Aaron. **The Algorithmic Foundations of Differential Privacy**. NOW Publishers, 2014.
-- KAIROUZ, Peter et al. **Advances and Open Problems in Federated Learning**. Foundations and Trends in ML, 2021.
 - Brasil. **Lei Geral de Proteção de Dados (Lei 13.709/2018)**. 2018.
 
 **Complementar:**
-- SHOKRI, Reza et al. **Membership Inference Attacks Against Machine Learning Models**. IEEE S&P, 2017.
-- McMahan, H. Brendan et al. **Communication-Efficient Learning of Deep Networks from Decentralized Data**. AISTATS, 2017.
+- KAIROUZ, Peter et al. **Advances and Open Problems in Federated Learning**. 2021.
 
 ---
 
@@ -477,39 +538,35 @@ Ao final do módulo, o aluno será capaz de:
 **Número de Aulas:** 6 aulas de 5 horas
 
 #### Ementa
-Governança, Risco e Compliance em ambientes de IA. Risk assessment para projetos de IA. Controles de segurança específicos para IA. Compliance com frameworks regulatórios. Third-party risk management em IA. Contratos e SLAs com fornecedores de IA. Auditoria de sistemas de IA. Métricas e reporting de riscos de IA. Comunicação de riscos para stakeholders. Plano de continuidade para sistemas de IA.
+Governança, Risco e Compliance em ambientes de IA. Risk assessment para projetos de IA e agentes autônomos. Controles de segurança específicos para IA. Compliance com frameworks regulatórios. Third-party risk management em IA. **Políticas de uso de IA generativa e Vibe Coding na organização.** Auditoria de sistemas de IA. Comunicação de riscos para stakeholders.
 
 #### Objetivos de Aprendizagem
 Ao final do módulo, o aluno será capaz de:
 1. Conduzir risk assessments para projetos de IA
 2. Implementar controles de GRC específicos para IA
-3. Gerenciar riscos de terceiros em IA
-4. Desenvolver métricas de risco de IA
+3. **Desenvolver políticas de uso de IA generativa e Vibe Coding**
+4. Gerenciar riscos de terceiros em IA
 5. Comunicar riscos de IA para executivos
-6. Elaborar planos de continuidade para sistemas de IA
 
 #### Conteúdo Programático
 
 | Aula | Tema | CH |
 |------|------|-----|
 | 1 | GRC Tradicional vs GRC para IA | 5h |
-| 2 | Risk Assessment para Projetos de IA | 5h |
+| 2 | Risk Assessment para IA e Agentes | 5h |
 | 3 | Controles de Segurança para IA | 5h |
-| 4 | Third-Party Risk Management em IA | 5h |
+| 4 | Third-Party Risk e Políticas de Vibe Coding | 5h |
 | 5 | Métricas, Reporting e Comunicação de Riscos | 5h |
 | 6 | Continuidade de Negócios e CTF do Módulo | 5h |
 
 #### Bibliografia
 
 **Básica:**
-- ISACA. **Risk IT Framework**. 2nd ed. 2020.
 - NIST. **AI Risk Management Framework Playbook**. 2023.
 - ISO 31000:2018 - Risk Management Guidelines
 
 **Complementar:**
-- COBIT 2019 Framework
-- FAIR (Factor Analysis of Information Risk)
-- COSO ERM Framework
+- ISACA. **Risk IT Framework**. 2nd ed. 2020.
 
 ---
 
@@ -520,38 +577,32 @@ Ao final do módulo, o aluno será capaz de:
 **Número de Aulas:** 6 aulas de 5 horas
 
 #### Ementa
-Projeto integrador combinando todos os conhecimentos do MBA. Capture The Flag (CTF) com cenários de IA e cibersegurança. Desafios de red team: ataque a sistemas de IA. Desafios de blue team: defesa com IA. Análise de incidentes envolvendo IA. Elaboração de relatório executivo. Apresentação de resultados. Simulação de board presentation.
+Projeto integrador combinando todos os conhecimentos do MBA. **Desenvolvimento de agente de segurança completo usando Vibe Coding.** Capture The Flag (CTF) com cenários de IA e cibersegurança. Desafios de red team: ataque a sistemas de IA. Desafios de blue team: defesa com IA e agentes. Elaboração de relatório executivo. Apresentação de resultados.
 
 #### Objetivos de Aprendizagem
 Ao final do módulo, o aluno será capaz de:
-1. Aplicar conhecimentos integrados em cenários realistas
-2. Resolver desafios complexos de CTF
-3. Trabalhar em equipe sob pressão
-4. Elaborar relatórios executivos de segurança
-5. Apresentar resultados para stakeholders
-6. Demonstrar competência técnica e gerencial
+1. **Desenvolver agente de segurança funcional**
+2. Aplicar conhecimentos integrados em cenários realistas
+3. Resolver desafios complexos de CTF
+4. Trabalhar em equipe sob pressão
+5. Elaborar relatórios executivos de segurança
+6. Apresentar resultados para stakeholders
 
 #### Conteúdo Programático
 
 | Aula | Tema | CH |
 |------|------|-----|
 | 1 | Preparação: Revisão e Formação de Equipes | 5h |
-| 2 | CTF Red Team: Atacando Sistemas de IA | 5h |
-| 3 | CTF Blue Team: Defendendo com IA | 5h |
-| 4 | Investigação de Incidentes com IA | 5h |
+| 2 | **Projeto: Desenvolvimento de AI Security Agent** | 5h |
+| 3 | CTF Red Team: Atacando Sistemas de IA | 5h |
+| 4 | CTF Blue Team: Defendendo com IA e Agentes | 5h |
 | 5 | Elaboração de Relatório Executivo | 5h |
 | 6 | Apresentação Final e Certificação | 5h |
 
 #### Bibliografia
 
-**Básica:**
 - Todos os materiais das disciplinas anteriores
-- CTFd. **CTFd Documentation**. 2024.
-- SANS. **Writing Penetration Testing Reports**. 2023.
-
-**Complementar:**
-- PTES. **Penetration Testing Execution Standard**. 2014.
-- OWASP. **Testing Guide v5**. 2024.
+- LangChain, CrewAI Documentation
 
 ---
 
@@ -559,8 +610,8 @@ Ao final do módulo, o aluno será capaz de:
 
 | Componente | Horas |
 |------------|-------|
-| Carga Horária Teórica | 145h (35%) |
-| Carga Horária Prática | 275h (65%) |
+| Carga Horária Teórica | 141h (34%) |
+| Carga Horária Prática | 279h (66%) |
 | **Carga Horária Total** | **420h** |
 
 ---
@@ -570,16 +621,28 @@ Ao final do módulo, o aluno será capaz de:
 ```
 Módulo 1 ──┐
            ├──> Módulo 3 ──> Módulo 4 ──> Módulo 5 ──> Módulo 6
-Módulo 2 ──┘                    │
-                               │
-           ┌───────────────────┘
-           │
-           ├──> Módulo 7 ──> Módulo 8
-           │
-           └──> Módulo 9 ──> Módulo 10
-                    │
+Módulo 2 ──┘                    │              │
+                               │              │
+           ┌───────────────────┘              │
+           │                                  │
+           ├──> Módulo 7 ──> Módulo 8 ────────┤
+           │                                  │
+           └──> Módulo 9 ──> Módulo 10        │
+                    │                         │
                     └──> Módulo 11 ──> Módulo 12
 ```
+
+---
+
+## Diferenciais de Agentes e Vibe Coding
+
+| Aspecto | Descrição |
+|---------|-----------|
+| **40% das grandes empresas** | Terão agentes de IA em SOCs até 2026 (Deloitte) |
+| **Módulo dedicado** | 40h focadas em desenvolvimento de agentes |
+| **Vibe Coding integrado** | Competência transversal em todos os módulos práticos |
+| **Frameworks atuais** | LangChain, CrewAI, ferramentas 2025 |
+| **Projeto final** | Construção de AI Security Agent funcional |
 
 ---
 
@@ -589,9 +652,11 @@ Módulo 2 ──┘                    │
 |--------------|---------------------|
 | CompTIA Security+ | Módulo 1 |
 | CompTIA CySA+ | Módulos 3, 4, 5, 6 |
-| CECyber CASP | Módulos 7, 8, 12 |
+| CECyber CASP | Módulos 5, 7, 8, 12 |
 | CISSP (parcial) | Módulos 1, 9, 11 |
 
 ---
 
 *Documento parte integrante do PPC*
+
+*Atualizado: Dezembro 2025*

@@ -50,8 +50,8 @@ O **MBA em Cibersegurança e Inteligência Artificial** da CECyber é um program
 ### Trilha 2: IA para Cibersegurança (140h)
 - [Módulo 3: Machine Learning para Detecção de Ameaças](docs/modulos/modulo-03-ml-deteccao-ameacas.md)
 - [Módulo 4: Automação de SOC com IA](docs/modulos/modulo-04-automacao-soc.md)
-- [Módulo 5: Threat Intelligence e Hunting com IA](docs/modulos/modulo-05-threat-intelligence.md)
-- [Módulo 6: Resposta a Incidentes Automatizada](docs/modulos/modulo-06-resposta-incidentes.md)
+- [**Módulo 5: Desenvolvimento de Agentes de IA para Cibersegurança**](docs/modulos/modulo-05-agentes-ia-ciberseguranca.md) 🆕
+- [Módulo 6: Threat Intelligence, Hunting e Resposta a Incidentes](docs/modulos/modulo-06-threat-intelligence-resposta.md)
 
 ### Trilha 3: Segurança de Ambientes de IA (140h)
 - [Módulo 7: Segurança de LLMs e Modelos Generativos](docs/modulos/modulo-07-seguranca-llms.md)
@@ -63,6 +63,24 @@ O **MBA em Cibersegurança e Inteligência Artificial** da CECyber é um program
 - [Módulo 11: GRC para Ambientes de IA](docs/modulos/modulo-11-grc-ia.md)
 - [Módulo 12: Projeto Aplicado - CTF Final](docs/modulos/modulo-12-projeto-ctf.md)
 
+## Destaques 2026
+
+### Agentes de IA para Cibersegurança
+O curso inclui um **módulo completo de 40h** dedicado ao desenvolvimento de agentes de IA autônomos para operações de segurança:
+- Arquiteturas de agentes (ReAct, Plan-and-Execute)
+- Frameworks: LangChain, LangGraph, CrewAI
+- Agentes para triagem de alertas, threat hunting e resposta automatizada
+- Sistemas multi-agente para SOC (Agentic SOC)
+- Segurança e governança de agentes autônomos
+
+### Vibe Coding como Competência Transversal
+Preparamos o profissional para o futuro do desenvolvimento assistido por IA:
+- **Claude Code** - assistente de terminal para desenvolvimento
+- **GitHub Copilot** - autocomplete inteligente
+- **Cursor IDE** - editor com IA integrada
+- Engenharia de prompts para desenvolvimento seguro
+- Validação crítica de código AI-generated
+
 ## Diferenciais
 
 ### Metodologia Prática
@@ -70,6 +88,7 @@ O **MBA em Cibersegurança e Inteligência Artificial** da CECyber é um program
 - Laboratórios em CECyber Play Labs
 - CTFs (Capture The Flag) em cada módulo
 - Simulações de ataques reais com IA
+- Desenvolvimento hands-on de agentes de IA
 
 ### Certificações Integradas
 - Preparatório CompTIA Security+
@@ -103,11 +122,13 @@ O **MBA em Cibersegurança e Inteligência Artificial** da CECyber é um program
 Ao concluir o MBA, o profissional estará apto a:
 
 - Implementar soluções de IA para detecção e resposta a ameaças
+- **Desenvolver e orquestrar agentes de IA autônomos para operações de segurança**
 - Liderar projetos de automação de segurança com IA
 - Avaliar e mitigar riscos em sistemas de IA
 - Desenvolver políticas de governança para IA corporativa
 - Conduzir red team e blue team operations com ferramentas de IA
 - Garantir compliance com frameworks de IA (NIST AI RMF, EU AI Act)
+- **Utilizar Vibe Coding para desenvolvimento eficiente e seguro**
 
 ## Documentação Completa
 

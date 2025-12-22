@@ -15,9 +15,10 @@ O MBA oferece **275 horas de atividades práticas** (65% da carga total), distri
 | **CECyber Play Labs** | Ambiente de laboratórios práticos | 1, 3, 4, 5, 6, 12 |
 | **Cloud Labs (AWS/Azure/GCP)** | Ambientes cloud para práticas | 2, 3, 4, 7, 8 |
 | **Jupyter Hub** | Notebooks para ML/IA | 2, 3, 5, 6 |
+| **Agent Dev Environment** | Desenvolvimento de agentes de IA | 5 |
 | **CTFd Platform** | Capture The Flag | Todos |
 | **Sandbox Environments** | Análise de malware | 1, 3 |
-| **LLM Playground** | Testes com LLMs | 7, 8, 9 |
+| **LLM Playground** | Testes com LLMs | 5, 7, 8, 9 |
 
 ---
 
@@ -86,26 +87,29 @@ O MBA oferece **275 horas de atividades práticas** (65% da carga total), distri
 | 7.1 | Integração Threat Intel | 120min | MISP, APIs |
 | 8.0 | **CTF do Módulo** | 180min | CTFd |
 
-### Módulo 5: Threat Intelligence
+### Módulo 5: Desenvolvimento de Agentes de IA para Cibersegurança 🆕
 
 | Lab | Nome | Duração | Ferramentas |
 |-----|------|---------|-------------|
-| 1.1 | Ciclo de CTI | 60min | Documentação |
-| 2.1 | MITRE ATT&CK Lab | 100min | ATT&CK Navigator |
-| 3.1 | Coleta de IOCs | 100min | Python, APIs |
-| 4.1 | NLP para Relatórios | 100min | spaCy, NLTK |
-| 5.1 | Threat Hunting | 100min | Elastic, queries |
-| 6.0 | **CTF do Módulo** | 140min | CTFd |
+| 1.1 | Primeiro Agente LangChain | 120min | LangChain, Python |
+| 1.2 | Ferramentas para Agentes de Segurança | 90min | LangChain Tools |
+| 2.1 | Agente de Triagem de Alertas | 150min | LangChain, SIEM API |
+| 3.1 | Agente de Threat Hunting | 150min | LangChain, Elastic |
+| 4.1 | Sistema Multi-Agente CrewAI | 180min | CrewAI, Python |
+| 5.1 | Workflows com LangGraph | 180min | LangGraph |
+| 6.1 | Segurança de Agentes | 150min | Guardrails, Logging |
+| 7.1 | Integração com SOC | 150min | APIs, Dashboards |
+| 8.0 | **CTF do Módulo** | 210min | CTFd |
 
-### Módulo 6: Resposta a Incidentes
+### Módulo 6: Threat Intelligence, Hunting e Resposta a Incidentes
 
 | Lab | Nome | Duração | Ferramentas |
 |-----|------|---------|-------------|
-| 1.1 | Playbook NIST | 60min | Templates |
-| 2.1 | Detecção Automatizada | 100min | Python, SIEM |
-| 3.1 | Contenção Automatizada | 100min | SOAR, scripts |
-| 4.1 | Forense com IA | 100min | Volatility, ML |
-| 5.1 | Documentação Auto | 100min | LLM, templates |
+| 1.1 | Ciclo de CTI e MITRE ATT&CK | 90min | ATT&CK Navigator |
+| 2.1 | Coleta Automatizada de IOCs | 100min | Python, APIs |
+| 3.1 | Threat Hunting com IA | 120min | Elastic, ML |
+| 4.1 | Playbook NIST e Resposta | 100min | Templates, SOAR |
+| 5.1 | Forense com IA | 100min | Volatility, ML |
 | 6.0 | **CTF do Módulo** | 140min | CTFd |
 
 ### Módulo 7: Segurança de LLMs

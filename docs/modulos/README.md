@@ -14,9 +14,9 @@
 | Módulo | Disciplina | CH | Status |
 |--------|------------|-----|--------|
 | [Módulo 3](modulo-03-ml-deteccao-ameacas.md) | Machine Learning para Detecção de Ameaças | 40h | Completo |
-| [Módulo 4](modulo-04-automacao-soc.md) | Automação de SOC com IA | 40h | Resumo |
-| [Módulo 5](modulo-05-threat-intelligence.md) | Threat Intelligence e Hunting com IA | 30h | Resumo |
-| [Módulo 6](modulo-06-resposta-incidentes.md) | Resposta a Incidentes Automatizada | 30h | Resumo |
+| [Módulo 4](modulo-04-automacao-soc.md) | Automação de SOC com IA | 30h | Resumo |
+| [**Módulo 5**](modulo-05-agentes-ia-ciberseguranca.md) | **Desenvolvimento de Agentes de IA para Cibersegurança** 🆕 | 40h | Completo |
+| [Módulo 6](modulo-06-threat-intelligence-resposta.md) | Threat Intelligence, Hunting e Resposta a Incidentes | 30h | Resumo |
 
 ### Trilha 3: Segurança de Ambientes de IA (140h)
 
@@ -94,6 +94,9 @@ Cada módulo segue a estrutura:
 - Módulo 3: ML para Detecção
 - Módulo 4: Automação de SOC
 
+**Agentes de IA:**
+- Módulo 5: Desenvolvimento de Agentes de IA para Cibersegurança
+
 **LLMs e IA Generativa:**
 - Módulo 7: Segurança de LLMs
 - Módulo 8: OWASP AI Top 10
@@ -109,10 +112,10 @@ Cada módulo segue a estrutura:
 - Módulo 1, Módulo 2
 
 **Intermediário:**
-- Módulo 3, Módulo 4, Módulo 5, Módulo 6
+- Módulo 3, Módulo 4, Módulo 6
 
 **Avançado:**
-- Módulo 7, Módulo 8, Módulo 9, Módulo 10
+- Módulo 5 (Agentes de IA), Módulo 7, Módulo 8, Módulo 9, Módulo 10
 
 **Integrador:**
 - Módulo 11, Módulo 12
