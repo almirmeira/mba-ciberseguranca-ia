@@ -12,7 +12,7 @@ O MBA oferece **275 horas de atividades práticas** (65% da carga total), distri
 
 | Ambiente | Descrição | Módulos |
 |----------|-----------|---------|
-| **Cyber Range Cyberbit** | Simulador enterprise de SOC | 1, 3, 4, 5, 6, 12 |
+| **CECyber Play Labs** | Ambiente de laboratórios práticos | 1, 3, 4, 5, 6, 12 |
 | **Cloud Labs (AWS/Azure/GCP)** | Ambientes cloud para práticas | 2, 3, 4, 7, 8 |
 | **Jupyter Hub** | Notebooks para ML/IA | 2, 3, 5, 6 |
 | **CTFd Platform** | Capture The Flag | Todos |
@@ -183,23 +183,26 @@ O MBA oferece **275 horas de atividades práticas** (65% da carga total), distri
 
 ## Infraestrutura Técnica
 
-### Cyber Range Cyberbit
+### CECyber Play Labs
 
-**Descrição:** Plataforma enterprise de simulação de SOC com cenários realistas.
+**Descrição:** Ambiente de laboratórios práticos desenvolvido pela CECyber para treinamento hands-on em cibersegurança.
 
 **Capacidades:**
-- Simulação de ataques em tempo real
-- Ambientes de rede virtualizados
+- Ambientes virtualizados para práticas de segurança
 - Cenários de Red Team / Blue Team
 - Exercícios de resposta a incidentes
-- Métricas e relatórios de desempenho
+- Laboratórios de SOC e monitoramento
+- Práticas de análise forense e threat hunting
+- Simulações de ataques e defesa
 
 **Cenários Disponíveis:**
-1. APT Simulation
-2. Ransomware Attack
-3. Insider Threat
-4. DDoS Attack
-5. Supply Chain Attack
+1. Análise de Tráfego e Detecção de Intrusão
+2. Resposta a Ransomware
+3. Investigação de Insider Threat
+4. Mitigação de DDoS
+5. Análise de Malware
+6. Hardening de Sistemas
+7. Configuração de SIEM/SOAR
 
 ### Cloud Labs
 
@@ -287,7 +290,7 @@ matplotlib, seaborn, plotly
 | Recurso | Tipo de Acesso |
 |---------|----------------|
 | AVA Moodle | Credenciais fornecidas |
-| Cyber Range | VPN + credenciais |
+| CECyber Play Labs | Credenciais fornecidas |
 | Cloud Labs | Sandbox accounts |
 | Jupyter Hub | SSO |
 | CTFd | Credenciais únicas |

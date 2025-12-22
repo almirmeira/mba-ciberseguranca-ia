@@ -77,7 +77,7 @@ O MBA em Cibersegurança e Inteligência Artificial surge para preencher uma lac
 | Diferencial | Descrição |
 |-------------|-----------|
 | **Abordagem Dual** | Único MBA que aborda simultaneamente IA para segurança E segurança de IA |
-| **70% Prático** | Foco em hands-on com laboratórios em Cyber Range |
+| **70% Prático** | Foco em hands-on com laboratórios em CECyber Play Labs |
 | **Atualização Constante** | Conteúdo alinhado com OWASP AI Top 10 2025 e tendências 2026 |
 | **Certificações** | Preparatório CompTIA Security+ e CySA+ inclusos |
 | **CTF Integrado** | Avaliação prática via Capture The Flag |
@@ -305,11 +305,12 @@ Cada disciplina é composta por **8 aulas** de **5 horas** cada (para módulos d
 - Fóruns de discussão moderados
 - Sistema de acompanhamento de progresso
 
-#### 8.3.2 Cyber Range Cyberbit
-- Simulador de ataques cibernéticos
-- Cenários realistas de SOC
-- Ambientes de rede virtualizados
+#### 8.3.2 CECyber Play Labs
+- Ambiente de laboratórios práticos da CECyber
+- Cenários realistas de SOC e operações de segurança
+- Ambientes virtualizados para práticas hands-on
 - Exercícios de red team/blue team
+- Simulações de ataques e defesa
 
 #### 8.3.3 Laboratórios Cloud
 - Ambientes AWS/Azure/GCP para práticas
@@ -420,7 +421,7 @@ Os docentes participarão de:
 | Recurso | Descrição |
 |---------|-----------|
 | AVA Moodle | Plataforma de aprendizagem |
-| Cyber Range Cyberbit | Simulador de ataques |
+| CECyber Play Labs | Ambiente de laboratórios práticos |
 | Cloud Labs | AWS, Azure, GCP |
 | Jupyter Hub | Notebooks colaborativos |
 | GitHub Classroom | Gestão de código |

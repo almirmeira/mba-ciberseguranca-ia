@@ -67,7 +67,7 @@ O **MBA em Cibersegurança e Inteligência Artificial** da CECyber é um program
 
 ### Metodologia Prática
 - **70% Prática / 30% Teoria**
-- Laboratórios em Cyber Range Cyberbit
+- Laboratórios em CECyber Play Labs
 - CTFs (Capture The Flag) em cada módulo
 - Simulações de ataques reais com IA
 

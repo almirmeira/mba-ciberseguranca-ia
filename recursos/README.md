@@ -133,7 +133,7 @@
 
 | Plataforma | Tipo | Uso |
 |------------|------|-----|
-| **Cyber Range Cyberbit** | Simulação | SOC training |
+| **CECyber Play Labs** | Laboratórios práticos | SOC training, práticas |
 | **HackTheBox** | Labs | Prática adicional |
 | **TryHackMe** | Labs | Aprendizado guiado |
 | **Gandalf AI** | LLM Security | Prompt injection |
