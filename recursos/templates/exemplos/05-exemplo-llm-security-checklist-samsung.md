@@ -42,7 +42,7 @@ Em março/abril de 2023, a Samsung Semiconductor permitiu que seus engenheiros u
 2. Limite de caracteres para entradas no ChatGPT (1KB)
 3. Banimento temporário de ferramentas de IA generativa
 4. Desenvolvimento de solução interna de IA
-5. Em 2024-2025: Retorno controlado ao uso de ChatGPT com novos protocolos
+5. Em 2025-2026: Retorno controlado ao uso de ChatGPT com novos protocolos
 
 ---
 

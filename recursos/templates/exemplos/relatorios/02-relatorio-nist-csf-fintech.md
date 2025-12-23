@@ -2,7 +2,7 @@
 ## Avaliação de Maturidade de Segurança - Fintech Brasileira
 
 **Classificação:** Confidencial
-**Data:** Janeiro 2025
+**Data:** Dezembro 2025
 **Versão:** 1.0
 
 ---
@@ -125,10 +125,10 @@ A organização utiliza **47 modelos de IA/ML em produção**, incluindo:
 
 | Trimestre | Iniciativa Principal | Investimento | Resultado Esperado |
 |-----------|---------------------|--------------|-------------------|
-| **Q1 2025** | Framework de Riscos de IA + MLOps Security | R$ 1.3M | Visibilidade de riscos de IA |
-| **Q2 2025** | Treinamento AI Security + Playbooks IR | R$ 350K | Equipe capacitada |
-| **Q3 2025** | Supply Chain Security + Threat Intel | R$ 500K | Due diligence completa |
-| **Q4 2025** | Certificação ISO 42001 + Red Team IA | R$ 700K | Maturidade Tier 4 |
+| **Q1 2026** | Framework de Riscos de IA + MLOps Security | R$ 1.3M | Visibilidade de riscos de IA |
+| **Q2 2026** | Treinamento AI Security + Playbooks IR | R$ 350K | Equipe capacitada |
+| **Q3 2026** | Supply Chain Security + Threat Intel | R$ 500K | Due diligence completa |
+| **Q4 2026** | Certificação ISO 42001 + Red Team IA | R$ 700K | Maturidade Tier 4 |
 
 ### 5.2 Investimento Total
 
@@ -444,7 +444,7 @@ A organização possui uma **postura de segurança cibernética madura** (Tier 3
 
 ## 12. Plano de Implementação Técnica
 
-### 12.1 Q1 2025: Framework de Riscos de IA
+### 12.1 Q1 2026: Framework de Riscos de IA
 
 | Semana | Atividade | Responsável | Entregável |
 |--------|-----------|-------------|------------|
@@ -457,7 +457,7 @@ A organização possui uma **postura de segurança cibernética madura** (Tier 3
 
 **Investimento Q1**: R$ 1.3M (R$ 500K tecnologia + R$ 800K consultoria/pessoas)
 
-### 12.2 Q2 2025: Treinamento e Playbooks
+### 12.2 Q2 2026: Treinamento e Playbooks
 
 | Semana | Atividade | Responsável | Entregável |
 |--------|-----------|-------------|------------|
@@ -468,7 +468,7 @@ A organização possui uma **postura de segurança cibernética madura** (Tier 3
 
 **Investimento Q2**: R$ 350K (R$ 200K treinamento + R$ 150K desenvolvimento)
 
-### 12.3 Q3 2025: Supply Chain e Threat Intel
+### 12.3 Q3 2026: Supply Chain e Threat Intel
 
 | Semana | Atividade | Responsável | Entregável |
 |--------|-----------|-------------|------------|
@@ -479,7 +479,7 @@ A organização possui uma **postura de segurança cibernética madura** (Tier 3
 
 **Investimento Q3**: R$ 500K (R$ 100K membership + R$ 400K avaliações)
 
-### 12.4 Q4 2025: Certificação e Red Team
+### 12.4 Q4 2026: Certificação e Red Team
 
 | Semana | Atividade | Responsável | Entregável |
 |--------|-----------|-------------|------------|

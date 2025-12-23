@@ -2,7 +2,7 @@
 ## Caso Samsung/ChatGPT - Vazamento de Dados Corporativos (2023)
 
 > **Classificação**: Confidencial
-> **Data**: Janeiro 2025
+> **Data**: Dezembro 2025
 > **Versão**: 1.0
 
 ---
@@ -134,7 +134,7 @@ IMPACTO POTENCIAL DE VAZAMENTOS VIA IA GENERATIVA
 | Limite de 1KB no input | ✅ Efetivo | Reduz risco mas não elimina |
 | Banimento temporário de IA | ✅ Efetivo | Solução de curto prazo |
 | Desenvolvimento de IA interna | ✅ Estratégico | Solução de longo prazo |
-| Retorno controlado (2024) | ✅ Maduro | Com controles adequados |
+| Retorno controlado (2025) | ✅ Maduro | Com controles adequados |
 
 ### 3.2 Recomendações para Sua Empresa
 

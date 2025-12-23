@@ -2,7 +2,7 @@
 ## Caso Equifax 2017 - Análise e Lições Aprendidas
 
 **Classificação:** Confidencial
-**Data:** Janeiro 2025
+**Data:** Dezembro 2025
 **Versão:** 1.0
 
 ---

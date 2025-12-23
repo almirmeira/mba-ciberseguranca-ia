@@ -2,7 +2,7 @@
 ## Caso Colonial Pipeline - Ataque de Ransomware DarkSide (Maio 2021)
 
 > **Classificação**: Confidencial
-> **Data**: Janeiro 2025
+> **Data**: Dezembro 2025
 > **Versão**: 1.0
 
 ---

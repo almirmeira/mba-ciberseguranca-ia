@@ -12,8 +12,8 @@
 | **Nome do Sistema/Projeto** | NeoBank Digital - Plataforma Core Banking |
 | **Versão da Arquitetura** | 3.0 |
 | **Arquiteto Responsável** | Security Architecture Team |
-| **Data de Criação** | Janeiro 2025 |
-| **Última Atualização** | Janeiro 2025 |
+| **Data de Criação** | Dezembro 2025 |
+| **Última Atualização** | Dezembro 2025 |
 | **Classificação** | Confidencial |
 
 ---
@@ -625,9 +625,9 @@ A plataforma NeoBank Digital é um banco digital completo que atende mais de 50 
 
 | Papel | Nome | Data |
 |-------|------|------|
-| Security Architect | [Exemplo] | Jan 2025 |
-| CISO | [Exemplo] | Jan 2025 |
-| CTO | [Exemplo] | Jan 2025 |
+| Security Architect | [Exemplo] | Dez 2025 |
+| CISO | [Exemplo] | Dez 2025 |
+| CTO | [Exemplo] | Dez 2025 |
 
 ---
 

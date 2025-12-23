@@ -2,7 +2,7 @@
 ## Política de IA Responsável - TechCorp Brasil
 
 > **Classificação**: Interno
-> **Data**: Janeiro 2025
+> **Data**: Dezembro 2025
 > **Versão**: 1.0
 
 ---
@@ -192,7 +192,7 @@ A TechCorp **proíbe expressamente** o uso de IA para:
 
 ### 4.2 Indicadores para Monitoramento Trimestral
 
-| KPI | Meta | Q4 2024 | Tendência |
+| KPI | Meta | Q4 2025 | Tendência |
 |-----|------|---------|-----------|
 | Modelos com Model Card | 100% | 97% | 🟢 ▲ |
 | Sistemas alto risco com DPIA | 100% | 100% | 🟢 = |
@@ -624,11 +624,11 @@ A TechCorp implementou um framework abrangente de governança de IA que inclui:
 
 | Iniciativa | Prazo | Responsável |
 |------------|-------|-------------|
-| Certificação ISO 42001 | Q2 2025 | CAIO |
-| Red Team específico para IA | Q1 2025 | CISO |
-| Plataforma de MLSecOps | Q2 2025 | CTO |
-| Treinamento 100% | Q1 2025 | RH |
-| Auditoria externa de fairness | Q2 2025 | Externo |
+| Certificação ISO 42001 | Q2 2026 | CAIO |
+| Red Team específico para IA | Q1 2026 | CISO |
+| Plataforma de MLSecOps | Q2 2026 | CTO |
+| Treinamento 100% | Q1 2026 | RH |
+| Auditoria externa de fairness | Q2 2026 | Externo |
 
 ---
 

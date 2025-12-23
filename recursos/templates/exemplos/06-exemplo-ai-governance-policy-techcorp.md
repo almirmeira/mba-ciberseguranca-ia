@@ -11,8 +11,8 @@
 |-------|-------|
 | **Organização** | TechCorp Brasil S.A. (Exemplo Fictício) |
 | **Versão** | 1.0 |
-| **Data de Aprovação** | Janeiro 2025 |
-| **Próxima Revisão** | Janeiro 2026 |
+| **Data de Aprovação** | Dezembro 2025 |
+| **Próxima Revisão** | Dezembro 2026 |
 | **Proprietário** | Chief AI Officer (CAIO) |
 | **Classificação** | Interno |
 
@@ -631,11 +631,11 @@ Esta política será revisada:
 
 | Papel | Nome | Data | Assinatura |
 |-------|------|------|------------|
-| CAIO | [Nome] | Jan 2025 | [Assinatura] |
-| CISO | [Nome] | Jan 2025 | [Assinatura] |
-| DPO | [Nome] | Jan 2025 | [Assinatura] |
-| CLO (Jurídico) | [Nome] | Jan 2025 | [Assinatura] |
-| CEO | [Nome] | Jan 2025 | [Assinatura] |
+| CAIO | [Nome] | Dez 2025 | [Assinatura] |
+| CISO | [Nome] | Dez 2025 | [Assinatura] |
+| DPO | [Nome] | Dez 2025 | [Assinatura] |
+| CLO (Jurídico) | [Nome] | Dez 2025 | [Assinatura] |
+| CEO | [Nome] | Dez 2025 | [Assinatura] |
 
 ---
 

@@ -12,7 +12,7 @@
 | **Nome da Organização** | NeoBank Brasil S.A. (Exemplo Fictício) |
 | **Setor** | Serviços Financeiros - Fintech / Banco Digital |
 | **Tamanho** | Grande (>5.000 funcionários, >50M clientes) |
-| **Data de Criação do Perfil** | Janeiro 2025 |
+| **Data de Criação do Perfil** | Dezembro 2025 |
 | **Versão do CSF** | 2.0 |
 | **Responsável** | CISO - Chief Information Security Officer |
 
@@ -274,15 +274,15 @@
 
 | Fase | Iniciativa | Subcategorias | Investimento | Responsável |
 |------|------------|---------------|--------------|-------------|
-| **Q1 2025** | Framework de Riscos de IA/ML | ID.RA-06, GV.RM-03 | R$ 500K | CISO + Head of AI |
-| **Q1 2025** | MLOps Security Monitoring | DE.CM-07, PR.DS-06 | R$ 800K | Security Ops + ML Team |
-| **Q2 2025** | Programa de Treinamento AI Security | PR.AT-03 | R$ 200K | CISO + RH |
-| **Q2 2025** | Playbook de IR para IA | RC.RP-06 | R$ 150K | CSIRT |
-| **Q3 2025** | Supply Chain Security Enhancement | GV.SC-01, GV.SC-02 | R$ 400K | Procurement + Security |
-| **Q3 2025** | Threat Intel Sharing (FS-ISAC) | RS.CO-03 | R$ 100K | Threat Intel Team |
+| **Q1 2026** | Framework de Riscos de IA/ML | ID.RA-06, GV.RM-03 | R$ 500K | CISO + Head of AI |
+| **Q1 2026** | MLOps Security Monitoring | DE.CM-07, PR.DS-06 | R$ 800K | Security Ops + ML Team |
+| **Q2 2026** | Programa de Treinamento AI Security | PR.AT-03 | R$ 200K | CISO + RH |
+| **Q2 2026** | Playbook de IR para IA | RC.RP-06 | R$ 150K | CSIRT |
+| **Q3 2026** | Supply Chain Security Enhancement | GV.SC-01, GV.SC-02 | R$ 400K | Procurement + Security |
+| **Q3 2026** | Threat Intel Sharing (FS-ISAC) | RS.CO-03 | R$ 100K | Threat Intel Team |
 
 ### 6.2 Métricas de Sucesso
-| Métrica | Baseline (Jan 2025) | Meta (Dez 2025) | Método de Medição |
+| Métrica | Baseline (Dez 2025) | Meta (Dez 2026) | Método de Medição |
 |---------|---------------------|-----------------|-------------------|
 | Maturidade Geral CSF | 3.7 | 4.0 | Assessment anual |
 | Cobertura de Monitoramento de IA | 40% | 100% | Inventário de modelos |
@@ -372,10 +372,10 @@
 
 | Papel | Nome | Data | Assinatura |
 |-------|------|------|------------|
-| CISO | [Nome] | Jan 2025 | [Exemplo] |
-| CTO | [Nome] | Jan 2025 | [Exemplo] |
-| Head of AI | [Nome] | Jan 2025 | [Exemplo] |
-| DPO | [Nome] | Jan 2025 | [Exemplo] |
+| CISO | [Nome] | Dez 2025 | [Exemplo] |
+| CTO | [Nome] | Dez 2025 | [Exemplo] |
+| Head of AI | [Nome] | Dez 2025 | [Exemplo] |
+| DPO | [Nome] | Dez 2025 | [Exemplo] |
 
 ---
 

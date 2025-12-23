@@ -2,7 +2,7 @@
 ## NeoBank Digital - Plataforma Core Banking Cloud-Native
 
 > **Classificação**: Confidencial
-> **Data**: Janeiro 2025
+> **Data**: Dezembro 2025
 > **Versão**: 1.0
 
 ---
@@ -162,11 +162,11 @@ INVESTIMENTO ANUAL EM SEGURANÇA: R$ 180 MILHÕES
 
 | Regulamentação | Status | Última Auditoria | Próxima Revisão |
 |----------------|--------|------------------|-----------------|
-| BACEN 4.893/2021 | ✅ Conforme | Out 2024 | Abr 2025 |
-| LGPD | ✅ Conforme | Nov 2024 | Mai 2025 |
-| PCI-DSS v4.0 | ✅ Conforme | Set 2024 | Set 2025 |
-| ISO 27001:2022 | ✅ Certificado | Dez 2024 | Dez 2025 |
-| SOC 2 Type II | ✅ Certificado | Out 2024 | Out 2025 |
+| BACEN 4.893/2021 | ✅ Conforme | Out 2025 | Abr 2026 |
+| LGPD | ✅ Conforme | Nov 2025 | Mai 2026 |
+| PCI-DSS v4.0 | ✅ Conforme | Set 2025 | Set 2026 |
+| ISO 27001:2022 | ✅ Certificado | Dez 2025 | Dez 2026 |
+| SOC 2 Type II | ✅ Certificado | Out 2025 | Out 2026 |
 
 ### 5.2 Open Finance (BACEN)
 
@@ -901,12 +901,12 @@ monitoring:
 
 | Auditoria | Frequência | Última | Próxima | Responsável |
 |-----------|------------|--------|---------|-------------|
-| PCI-DSS QSA | Anual | Set 2024 | Set 2025 | Deloitte |
-| SOC 2 Type II | Anual | Out 2024 | Out 2025 | EY |
-| ISO 27001 Surveillance | Anual | Dez 2024 | Dez 2025 | BSI |
-| Pentest Externo | Semestral | Nov 2024 | Mai 2025 | Coalfire |
-| Red Team | Anual | Ago 2024 | Ago 2025 | CrowdStrike |
-| BACEN Inspection | Sob demanda | Jun 2024 | - | BACEN |
+| PCI-DSS QSA | Anual | Set 2025 | Set 2026 | Deloitte |
+| SOC 2 Type II | Anual | Out 2025 | Out 2026 | EY |
+| ISO 27001 Surveillance | Anual | Dez 2025 | Dez 2026 | BSI |
+| Pentest Externo | Semestral | Nov 2025 | Mai 2026 | Coalfire |
+| Red Team | Anual | Ago 2025 | Ago 2026 | CrowdStrike |
+| BACEN Inspection | Sob demanda | Jun 2025 | - | BACEN |
 
 ---
 
@@ -916,9 +916,9 @@ monitoring:
 
 | Gap | Risco | Prioridade | Remediação | Prazo |
 |-----|-------|------------|------------|-------|
-| Adversarial testing incompleto para ML | Ataques a modelos não detectados | Alta | Implementar ART library, red team ML | Q2 2025 |
-| Guardrails LLM em progresso | Prompt injection, data leakage | Alta | Deploy NeMo Guardrails | Q1 2025 |
-| Falta de Confidential Computing | Dados expostos em memória | Média | AWS Nitro Enclaves | Q3 2025 |
+| Adversarial testing incompleto para ML | Ataques a modelos não detectados | Alta | Implementar ART library, red team ML | Q2 2026 |
+| Guardrails LLM em progresso | Prompt injection, data leakage | Alta | Deploy NeMo Guardrails | Q1 2026 |
+| Falta de Confidential Computing | Dados expostos em memória | Média | AWS Nitro Enclaves | Q3 2026 |
 | Criptografia não quantum-safe | Vulnerável a computação quântica | Baixa | Migração para PQC | 2026 |
 
 ### 6.2 Plano de Remediação Detalhado
@@ -942,7 +942,7 @@ AÇÕES:
    - Detecção de inputs adversariais em produção
    - Alertas para padrões suspeitos
 
-TIMELINE: Q2 2025
+TIMELINE: Q2 2026
 BUDGET: R$ 2M
 OWNER: ML Security Lead
 ```
@@ -969,7 +969,7 @@ AÇÕES:
    - All conversations logged (redacted)
    - Anomaly detection on usage patterns
 
-TIMELINE: Q1 2025
+TIMELINE: Q1 2026
 BUDGET: R$ 1.5M
 OWNER: AI Platform Lead
 ```

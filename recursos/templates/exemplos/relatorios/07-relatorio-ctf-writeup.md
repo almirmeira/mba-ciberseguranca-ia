@@ -2,7 +2,7 @@
 ## HackTheBox "Usage" - SQL Injection + Privilege Escalation
 
 > **Classificação**: Educacional
-> **Data**: Janeiro 2025
+> **Data**: Dezembro 2025
 > **Versão**: 1.0
 
 ---
